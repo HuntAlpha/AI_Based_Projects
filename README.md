@@ -1,1 +1,1 @@
-This Repository contains prediction based ai projects written in python  
+This Repository contains ai based projects written in python  
