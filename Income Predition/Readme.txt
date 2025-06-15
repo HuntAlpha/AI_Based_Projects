@@ -1,4 +1,4 @@
-# 🧠 Adult Income Classification using Machine Learning
+# 🧠 Income Prediction using Machine Learning
 
 This project predicts whether a person earns **more than $50K** per year using the **UCI Adult Income dataset**. The goal is to classify individuals based on their demographic and work-related attributes.
 
